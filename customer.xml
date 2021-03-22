@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+	<customerAge>27</customerAge>
+	<customerEmail>K@mail.com</customerEmail>
+	<customerId>101</customerId>
+	<customerName>Karan</customerName>
+</customer>
